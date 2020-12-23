@@ -227,15 +227,15 @@ function shouldRound(should, value){
 /*
  * The code below this comment is used to set up the invisible widget.
  * ===================================================================
- //open weather
-*/
+ */
 } else {
   
-  /* var cb = new CallbackURL("Shortcuts://run-shortcut?name=Weather");
-  cb.open()
-    Script.complete()
-  
-} */
+//   var cb = new CallbackURL("Shortcuts://run-shortcut?name=Weather");
+//   cb.open()
+//     Script.complete()
+//   
+// } 
+
 
 // Determine if user has taken the screenshot.
   var message
